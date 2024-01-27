@@ -1,3 +1,7 @@
+/*
+Made with the help of ChatGPT
+*/
+
 import Foundation
 
 class BooleanEvaluator {
